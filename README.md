@@ -7,7 +7,7 @@ Realizamos unos Ejercicios Basicos, y hoy vamos a seguir aprendiendo algunos con
 ![image](https://user-images.githubusercontent.com/38921558/188294474-4ccdb64b-c6e6-4840-a2ec-a30a9a5a5823.png)
 
 
-![](Foto_SQL.png)
+![](FOTO_SQL.png)
 
 
 ## URL DEL PROYECTO:

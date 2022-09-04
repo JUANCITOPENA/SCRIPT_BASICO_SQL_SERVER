@@ -12,4 +12,4 @@ Realizamos unos Ejercicios Basicos, y hoy vamos a seguir aprendiendo algunos con
 
 ## VIDEO EN YOUTUBE DEL EJEMPLO:
 
-[https://juancitopena.github.io/Mini_Blog_HTML_CSS_JS/](https://www.youtube.com/watch?v=yMv8ks9rvRo)
+[EJERCICIOS Y CONSULTAS BASICAS DE SQL BASICAS, TABLAS Y RELACIONES Y VISTAS](https://www.youtube.com/watch?v=yMv8ks9rvRo)

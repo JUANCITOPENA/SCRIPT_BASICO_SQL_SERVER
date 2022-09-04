@@ -10,6 +10,6 @@ Realizamos unos Ejercicios Basicos, y hoy vamos a seguir aprendiendo algunos con
 ![](FOTO_SQL.png)
 
 
-## URL DEL PROYECTO:
+## VIDEO EN YOUTUBE DEL EJEMPLO:
 
-https://juancitopena.github.io/Mini_Blog_HTML_CSS_JS/
+[https://juancitopena.github.io/Mini_Blog_HTML_CSS_JS/](https://www.youtube.com/watch?v=yMv8ks9rvRo)
